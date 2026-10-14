@@ -100,10 +100,6 @@ This project demonstrates practical knowledge of:
 
 GitHub: [@Shivamtripathi78](https://github.com/Shivamtripathi78)
 
-## 📅 30-Day GitHub Challenge
-
-This project is part of my 30-Day GitHub Project Challenge, where I build and publish projects to improve my programming skills and develop a stronger portfolio.
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
