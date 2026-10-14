@@ -63,9 +63,3 @@ This project helped me practice:
 ## Author
 
 Shivam Tripathi
-
-GitHub: Shivamtripathi78
-
-## Challenge
-
-Day 4 of my 30-Day GitHub Project Challenge.s
