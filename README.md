@@ -35,11 +35,3 @@ Todo-list/
 ├── README.md
 └── .gitignore
 ```
-
-## Purpose
-
-This project was developed as part of a 30-day coding challenge to practice frontend development, JavaScript functionality, and Git version control.
-
-## License
-
-This project is available for educational and personal learning purposes.
