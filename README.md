@@ -1,105 +1,45 @@
-# 📝 Python To-Do List Manager
+# Todo-list
 
-A beginner-friendly task management application built with Python that helps users organize their daily activities through a simple command-line interface.
+A simple, responsive, and user-friendly To-Do List web application built using HTML, CSS, and JavaScript.
 
-## ✨ Features
+## Features
 
-- ➕ **Add Tasks:** Create new tasks easily.
-- 📋 **View Tasks:** Display all tasks with their current status.
-- ✅ **Complete Tasks:** Mark tasks as completed.
-- ✏️ **Edit Tasks:** Update existing task descriptions.
-- 🗑️ **Delete Tasks:** Remove tasks you no longer need.
-- 💾 **Persistent Storage:** Save tasks automatically in a JSON file.
-- 🔄 **Automatic Loading:** Restore saved tasks when the application restarts.
-- 🛡️ **Input Validation:** Handle invalid menu choices and task numbers.
+* Add, edit, and delete tasks
+* Mark tasks as completed
+* Filter tasks by All, Active, and Completed
+* View total, completed, and pending tasks
+* Clear completed tasks
+* Automatically save tasks using browser local storage
+* Responsive design for desktop and mobile devices
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **Language:** Python
-- **Data Storage:** JSON
-- **Concepts:** Functions, Lists, Dictionaries, File Handling, CRUD Operations
+* HTML5
+* CSS3
+* JavaScript
+* Browser Local Storage
 
-## 📂 Project Structure
+## Getting Started
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.
+
+## Project Structure
 
 ```text
-python-todo-list/
-│
-├── main.py        # Main application
-├── README.md      # Project documentation
-├── .gitignore     # Files excluded from Git
-└── tasks.json     # Automatically generated task storage
+Todo-list/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── .gitignore
 ```
 
-## 🚀 Getting Started
+## Purpose
 
-### Prerequisites
+This project was developed as part of a 30-day coding challenge to practice frontend development, JavaScript functionality, and Git version control.
 
-- Python 3 installed on your computer.
-- Git installed (optional, for cloning the repository).
+## License
 
-### Installation
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/Shivamtripathi78/python-todo-list.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd python-todo-list
-```
-
-**3. Run the application**
-
-```bash
-python main.py
-```
-
-Follow the on-screen menu to manage your tasks.
-
-## 💻 How to Use
-
-After launching the application, choose an option from the menu:
-
-| Option | Action |
-|---|---|
-| 1 | Add a new task |
-| 2 | View all tasks |
-| 3 | Mark a task as completed |
-| 4 | Edit an existing task |
-| 5 | Delete a task |
-| 6 | Exit the application |
-
-Your tasks are saved locally in `tasks.json` and loaded automatically the next time you run the program.
-
-## 🎯 Learning Objectives
-
-This project demonstrates practical knowledge of:
-
-- Python programming fundamentals
-- Functions and modular programming
-- Lists and dictionaries
-- Reading and writing JSON files
-- CRUD operations
-- Exception handling and input validation
-- Data persistence
-
-## 🔮 Future Improvements
-
-- Add task priorities.
-- Introduce task deadlines.
-- Filter pending and completed tasks.
-- Add a graphical user interface.
-- Implement task search functionality.
-
-## 👨‍💻 Author
-
-**Shivam Tripathi**
-
-GitHub: [@Shivamtripathi78](https://github.com/Shivamtripathi78)
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
+This project is available for educational and personal learning purposes.
